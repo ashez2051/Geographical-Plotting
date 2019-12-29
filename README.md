@@ -1,3 +1,3 @@
 # Geographical-Plotting
 
-Geographical plotting using python
+Geographical plotting of 2014 World Energy Consumption Data
